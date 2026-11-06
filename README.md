@@ -54,10 +54,10 @@ $$
 The optimal control satisfies the Hamiltonian maximization condition
 
 $$
-u^*(t)
-\in
-\underset{u}{\operatorname{argmax}}
-\;H(g(t),\mu(t),u).
+H(g(t),\mu(t),u^*(t))
+=
+\max_{u\in\mathcal U}
+H(g(t),\mu(t),u).
 $$
 
 For a quadratic control cost,
