@@ -34,9 +34,3 @@ LieNet does **not** learn the robot dynamics from data. Instead, it embeds those
 Department of Mechanical and Aerospace Engineering, University of South Florida  
 Email: [udithalder@usf.edu](mailto:udithalder@usf.edu)  
 Website: [Udit Halder](https://sites.google.com/view/udithalder/)
-
-## References
-
-1. V. Jurdjevic, *Geometric Control Theory*. Cambridge University Press, 1997.
-2. A. A. Agrachev and Y. L. Sachkov, *Control Theory from the Geometric Viewpoint*. Springer, 2004.
-3. R. M. Murray, Z. Li, and S. S. Sastry, *A Mathematical Introduction to Robotic Manipulation*. CRC Press, 1994.
